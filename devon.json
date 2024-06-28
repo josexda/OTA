@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "14.0"
-    }
-  ]
-}
+{"response":[{"datetime":1719580984,"filename":"aicp_devon_t-18.0-UNOFFICIAL-signed-20240628.zip","id":"ba473271f0fa81b8ccb462c87aafa3a1164a7daeb4abb68365e1d71254a90a84","romtype":"UNOFFICIAL","size":832407817,"url":"https://github.com/josexda/devon_releases/releases/download/test/aicp_devon_t-18.0-UNOFFICIAL-signed-20240628.zip","version":"t-18.0"}]}
