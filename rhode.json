@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "nightly",
-      "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "14.0"
-    }
-  ]
-}
+{"response":[{"datetime":1719850042,"filename":"aicp_rhode_t-18.0-UNOFFICIAL-20240701.zip","id":"ab2ae56d877f31546f998493b84f918c2bd1f98810401fc502f2568fdf987775","romtype":"UNOFFICIAL","size":821996907,"url":"https://github.com/josexda/rhode_releases/releases/download/test/aicp_rhode_t-18.0-UNOFFICIAL-20240701.zip","version":"t-18.0"}]}
